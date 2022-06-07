@@ -28,7 +28,7 @@ const Navbar = ({displayText}:NavBarProps) => {
                             <MenuIcon />
                         </IconButton>
                     </Link>
-                    <Typography className='swe-toolbar-title' variant="h5" color="inherit" component="div" sx={{ flexGrow: 1 }}>
+                    <Typography id='swe-toolbar-title' variant="h5" color="inherit" component="div" sx={{ flexGrow: 1 }}>
                         {displayText}
                     </Typography>    
                     <Link to='/'><HomeIcon className="swe-home-icon" fontSize='large' /></Link>                
