@@ -16,7 +16,7 @@ This is a simple web app, built with React, that displays data from the Star War
 
 After cloning the repository in your local machine, you can run:
 
-### `npm build`
+### `npm install`
 
 Install dependencies
 
