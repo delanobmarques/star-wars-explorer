@@ -1,0 +1,12 @@
+.swe-content-card, .swe-list {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1rem 1rem 2.5rem 1rem;
+}
+
+.swe-list .swe-back-button {
+    margin-top: 1rem;
+}
+
+.swe-info-icon { color: #7A7B85 }
